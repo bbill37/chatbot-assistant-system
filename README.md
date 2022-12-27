@@ -7,7 +7,7 @@ The project is developed by following Project Management Plan(PMP) to better org
 The PMP-Plan developed is simply a simulation collaboration between third party organization. 
 
 ## Project Management Plan
-##### Project Summary: [Project Summary](PMP-PLAN/A-PROJECT_SUMMARY.md)
+##### Project Summary: [Project Summary](A-PROJECT_SUMMARY.md)
 Project Summary give a brief overview of the project objectives and team members details. 
 
 ##### Project Planning: [Project Planning](PMP-PLAN/B-PROJECT_PLANNING.md)
