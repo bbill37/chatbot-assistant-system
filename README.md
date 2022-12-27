@@ -1,4 +1,4 @@
-# Malaysia Car Plate Number Recognition System
+# Chatbot Assistant System
 
 This is a project that detect and recognize number plate of car. This project use Artificial Intelligence(AI) technique such as Deep Learning(DL) and Convolutional Neural Network(CNN). 
 
