@@ -12,15 +12,15 @@
 
 
 #### 3. Final Project Report
-**CAR PLATE RECOGNITION SYSTEM**
+**CHATBOT ASSISTANT SYSTEM**
 
 **1.0 PROJECT OBJECTIVES**
 
-The car plate recognition system done by QTMT Inc. was intended to develop an artificial intelligence system that are able to detect Malaysia car number plate. Besides, one of the aims of QTMT Inc. is to develop a system that are able to recognize the character of the car number plate. Not only that, we also intend to build an application programming interface (API) for the future ease if use as the integration module.
+Chatbot Assistant System is a system that can conduct as semi-auto system that able help worker to handle customers especially in high traffic situation. This can help reduce workload of workers by allowing the system to handle the customer give answers that suitable based on questions. Besides that, Application Program Interface (API) is built by us to enhance the efficiency communication between customer, worker, and the system.
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
-After the system has been completed, we tested the accuracy of the system. The system is 30%
+After the system has been completed, the accuracy of the system shows about 90%, which is we can say the result shows the system able to conduct as semi-auto system later for company.
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
