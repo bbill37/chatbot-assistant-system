@@ -9,9 +9,9 @@ Customer service is one of important department that exists in every company, in
 ### Project Name: CHATBOT ASSISTANT SYSTEM
 
 ### Team Members: 
-+ MUHAMMAD NABIL AKIF B032010239
-+ NURUL FASIHA B032010276
-+ SYAKIRAH HANIM B032010116
++ MUHAMMAD NABIL AKIF BIN NOR AZMAN B032010239
++ NURUL FASIHA BINTI MOHD JAMAL B032010276
++ SYAKIRAH HANIM BINTI ZULKERNAIN B032010116
 
 ### Objectives:
 + To develop a semi-auto system that can help workers to handle customers especially in high traffic situation.
