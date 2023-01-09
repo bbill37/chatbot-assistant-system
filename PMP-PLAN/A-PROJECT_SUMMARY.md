@@ -2,12 +2,9 @@
 
 ## A. DEFINING THE PROJECT
 ###  Project Summary
-In Aeon Mall, conventional parking fees charging system require car driver to obtain their car ticket upon entering the mall at the barrier gate. Driver need to pay for the ticket before leaving the mall at the packing machine. 
+Customer service is one of important department that exists in every company, include ecommerce, oil and gas, bank and so on. This is because they want to maintain their image by giving the best customer service to their customer. Nowadays, we can see that in customer service department always have issues in high traffic. Thus, not all workers can treat all the customers in one time. Because of this, we have introduced our Chatbot, generate by using AI that can help reduce load of workers in treating the customers.
 
-In our car plate recognition system, a camera will be positioned at the barrier gate. The camera will automatically recognize driver's car plate number and deduct parking fees from user. In this project, our **main focus will be on the car plate detection and recognition module**. This is the very first step in developing the automatic parking system in Aeon. 
-
-
-###  Customer: Aeon CO. (M) BHD 
+###  Customer: Ecommerce SDN BHD
 
 ### Project Name: CHATBOT ASSISTANT SYSTEM
 
@@ -17,9 +14,9 @@ In our car plate recognition system, a camera will be positioned at the barrier 
 + SYAKIRAH HANIM B032010116
 
 ### Objectives:
-+ To develop an artificial intelligence system that are able to detect Malaysia car number plate
-+ To develop a system that are able to recognize the character of the car number plate
-+ To develop an application programming interface (API) for the future ease of use as the integration module
++ To develop a semi-auto system that can help workers to handle customers especially in high traffic situation.
++ To develop a semi-auto system that can able giving enough of information to the customer in QnA sessions while waiting for staff to handle.
++ To build Application Programming Interface (API) for semi-auto system to enhance the ability communication of customers, workers, and database.
 
 <br><br><br>
 ##### Next: [Project Planning](B-PROJECT_PLANNING.md)
