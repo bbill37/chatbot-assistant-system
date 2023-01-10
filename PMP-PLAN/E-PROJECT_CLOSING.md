@@ -26,8 +26,8 @@ After the system has been completed, the accuracy of the system shows about 90%,
 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+<img src="assets/planning/PrototypeDevelopmentPhase.png" width="100%">
+<img src="assets/planning/IterativeDevelopmentPhase.png" width="100%">
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
