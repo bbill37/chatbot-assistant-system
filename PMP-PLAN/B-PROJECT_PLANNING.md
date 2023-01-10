@@ -8,3 +8,8 @@ The project management life cycle is represented and documented in the form of G
 Project management WBS is shown in the Gantt Chart below:
 
 <img src="assets/Gantt.png" width="100%">
+
+
+
+<br><br><br>
+##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
