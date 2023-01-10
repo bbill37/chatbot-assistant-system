@@ -39,32 +39,31 @@ The actual budget matches the original budget, which means that the team has fol
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique number plates that does not follow the rules set by the government. Unique number plates that cannot be recognise includes number plates that are reflective, and also number plate with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their number plates.
+The project scope was initiated from the beginning of the project. For instance, the system is not able to conduct in fully auto, which need observation from people also by time to time. This system also cannot give the answer out range of the topic since the rules inside the system already train based on the dataset. Besides that, this system only support in Malay and English Language only since we only covered project for Malaysia company.
 
 **5.2 OBJECTIVES**
 
-QTMT Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the number plate on the image and also read the characters on the number plate. 
-Besides, FAST API is used to implement the python program that are used to recognise the number plate into a html website. By using this method, our objective of building an API in the system was met.
+Our organization, Chatty Co. managed to achieve the objectives by initializing the project based on criteria listed by our sponsor. We have suggested for our company to try new technology, which is Artificial Intelligence (AI), which can handle uncertain situation, like giving the same answer although each customer have different ways to describe the same problem for a question.
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed of queueing up in front of the barrier gateway before entering the mall’s car park has been reduced. This can avoid traffic obstruction caused by the long queue. The process of paying the parking fees will also become more convenient as shoppers will no longer need to queue up in front of the auto pay machine and wait for their turn to pay for the parking fees. The parking fees will be automatically conducted from the account registered by the users after their number plate has been recognize. 
+By releasing this project, the workload of customer service workers can be reduced about 30%, which is the simple problem can be solved by using system only. Other than that, this situation can help customer service to focus more on customer that have high priority, such as the suggestion or answers are not fulfil the solution to solve their problems. This system not just focussing on helping customer service workers only, but for customers also. They can get answers quickly without need to wait answers from customer service worker for about 3 to 5 minutes. The time consuming of customers can be reduced and can maintain the level of their patience. 
 
 **6.0 TRANSITION PLAN**
 
-QTMT Inc. staff will provide support when require. The main work of support provided by QTMT Inc.’s staff on the car plate recognition system project are as shown below:
+Chatty Co. staff will provide the support based on the problems that have issued while executing this system. The main work of support provided by Chatty Co. staff on the Chatbot Assistant System project is based on below:
 
-i) Maintain the system
+i) Maintaining the system from time to time
 
 ii) Handling errors and updates of the system
 
-iii) Provide user guidelines for Aeon staff to use the system
+iii) Provide guideline for Ecommerce staffs to handle the system
 
 iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.PNG" width="100%">
+<img src="assets/closing/CloseContract.png" width="100%">
 
 
 <br><br><br>
