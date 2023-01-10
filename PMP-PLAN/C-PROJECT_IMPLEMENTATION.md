@@ -31,3 +31,9 @@ There are several steps to develop this project. First is context identification
 |   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$400                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
+
+### Milestone Chart
+#### Microsoft Project:
+
+<img src="assets/closing/PrototypeDevelopmentPhase.png" width="100%">
+<img src="assets/closing/IterativeDevelopmentPhase.png" width="100%">
