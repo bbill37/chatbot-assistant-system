@@ -34,6 +34,7 @@ Final code:
 
 ### Project Result
 The purpose of a chatbot system is to simulate a human conversation. Its architecture integrates a language model and computational algorithm to emulate information online communication  between a human and a computer using natural language.
+
 <img src="assets/result.png" width="60%">
 
 
