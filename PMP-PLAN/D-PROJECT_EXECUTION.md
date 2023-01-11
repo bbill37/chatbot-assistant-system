@@ -12,6 +12,11 @@ Firstly, we will begin by installing a few libraries which are as follows:
 
 <img src="assets/flowchartDesign.png" width="60%">
 
+```python
+def hello():
+    print("Hello, World!")
+```
+
 The first task that our chatbot must work for is the speech to text conversion. Basically, this involves converting the voice or audio signals into text data.
 
 <img src="assets/flowchartDesign.png" width="60%">
