@@ -27,16 +27,4 @@ Project Closing indicate the end of the project lifecycle where the project need
 Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC. 
 ## Sample Result
 
-**Result using Tkinter:**
-<img src="PMP-PLAN/assets/tkinter.JPG" width="100%">
-
-**Result using Web API:**
-The Web API developed with this Interface is for Proof of Concept (POC) and does not mean to be used in the real implementation. The real implementation would be embeded inside Raspberry PI 4 or Nano Jetson.
-
-<img src="PMP-PLAN/assets/9.jpeg" width="100%">
-
-## Project Demonstration
-
-The video below is the project presentation.
-
-[![](http://img.youtube.com/vi/nIq88fVd27k/0.jpg)](http://www.youtube.com/watch?v=nIq88fVd27k "")
+<img src="assets/result.png" width="60%">
