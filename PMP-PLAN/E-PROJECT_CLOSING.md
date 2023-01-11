@@ -64,7 +64,3 @@ iv) Report information to senior management on monthly basis
 #### 4. Close Contract
 
 <img src="assets/closing/CloseContract.png" width="100%">
-
-
-<br><br><br>
-##### Next: [Project Presentation](F-PROJECT_PRESENTATION.md)
