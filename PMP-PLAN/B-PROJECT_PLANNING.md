@@ -27,6 +27,10 @@ The chatbot assistant system will provide automated customer service and support
 
 ### Responsibility Assignment Matrices (RAM)
 
+<img src="assets/RAM1.png" width="100%">
+
+<img src="assets/RAM2.png" width="100%"> 
+
 |Task| Nabil Nor | Nurul Fasiha | Syakirah Hanim |
 |----|---------------|---------------|---------------|
 | Define the chatbot's capabilities and limitations | X |   |   |
